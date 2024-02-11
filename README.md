@@ -24,6 +24,8 @@ Oekraïne heeft de strategie aangepast van het tegenoffensief in het zuiden en 
 'Oekraïne heeft de strategie aangepast van het tegenoffensief in het zuiden en oosten van het land.', '"In de eerste weken trokken de troepen naar voren, maar dat ging gepaard met grote verliezen", zegt veiligheidsdeskundige Maria Avdeeva van de Oekraïense European Expert Association.', 'Deze gebieden heeft Oekraïne in de afgelopen anderhalve maand bevrijd: Oekraïne opereert voorzichtiger dan Rusland, ziet brigadegeneraal Han Bouwmeester, hoogleraar militair-operationele wetenschappen bij de Nederlandse Defensie Academie.', 'In de eerste weken van het tegenoffensief hebben de Oekraïense strijdkrachten gezocht naar zwakke punten in de verdediging, maar die lijken er niet te zijn; de linies blijken sterk voor het Oekraïense leger, dat geen luchtoverwicht heeft en kampt met een dreigend munitietekort.'
 
 In English, this translated to:- 
+
+
 Ukraine has adjusted the strategy of the counter-offensive in the south and east of the country.', '"In the first weeks the troops moved forward, but this was accompanied by high losses," says security expert Maria Avdeeva of the Ukrainian European Expert Association .', 'Ukraine has liberated these areas in the past month and a half: Ukraine operates more cautiously than Russia, sees Brigadier General Han Bouwmeester, professor of military-operational sciences at the Dutch Defense Academy.', 'In the first weeks of the counter-offensive, the Ukrainian armed forces looked for weak points in the defense, but there appear to be none; the lines appear to be strong for the Ukrainian army, which has no air superiority and is facing a looming ammunition shortage.
 
 
